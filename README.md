@@ -11,19 +11,14 @@ This Flutter application displays a list of warriors, each with their image and 
 - Detail Screen: Tapping on a warrior opens a new screen with a detailed description and the complete data of the warrior.
 - Smooth Navigation: Implements smooth and efficient navigation between the list and the detail screen.
 
-
-
 ## Technologies Used
-
-**Flutter:** For the user interface development.
-[![My Skills](https://skillicons.dev/icons?i=flutter	)](https://skillicons.dev)
-
-**Dart:** Programming language used by Flutter.
-[![My Skills](https://skillicons.dev/icons?i=dart)](https://skillicons.dev)
+- **Flutter:** For the user interface development.
+- **Dart:** Programming language used by Flutter.
+- [![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
 
 ## Screenshots
 
-![AppInterfaceScreens](https://imgur.com/PLeu7zJ)
+![AppInterfaceScreens](https://i.imgur.com/PLeu7zJ.png)
 
 
 ## Dependencies
